@@ -13,7 +13,7 @@ Error handling with a FAB button when API fails
 
 ## Clone the Repository  
 
-git clone https://github.com/YOUR_GITHUB_USERNAME/flutter_news_reader.git
+git clone https://github.com/Napradeep/news_reader_app
 cd flutter_news_reader
 
 ##  Dependency used
