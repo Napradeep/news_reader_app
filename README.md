@@ -31,36 +31,6 @@ equatable - simplifies state comparision
 
 flutter pub get
 
-
-## App Structure 
-lib/
-│── main.dart            
-│── src/
-│   ├── bloc/                 # BLoC state management
-│   │   ├── news_bloc/
-│   │   │   ├── news_bloc.dart
-│   │   │   ├── news_event.dart
-│   │   │   ├── news_state.dart
-│   │   ├── connectivity_bloc/
-│   │   │   ├── connectivity_bloc.dart
-│   │   │   ├── connectivity_event.dart
-│   │   │   ├── connectivity_state.dart
-│   ├── model/                # Data models
-│   │   ├── new_model.dart
-│   │   ├── new_model.g.dart  # Generated Hive adapter
-│   ├── utils/                # Utility functions
-│   │   ├── constants.dart
-│   │   ├── dio.dart
-│   │   ├── router.dart
-│   │   ├── snackbar.dart
-│   │   ├── spacer.dart
-│   ├── view/                 # Screens / Views
-│   │   ├── home_screen.dart
-│   │   ├── detail_screen.dart
-│   ├── widgets/              # Reusable UI components
-│   │   ├── news_card.dart
-│   │   ├── shimmer_news_card.dart
-
 ## Api Key 
    Store in Environment Variables this Recommended but i am storing in constants.dart
 
