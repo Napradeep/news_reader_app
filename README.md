@@ -18,13 +18,13 @@ cd flutter_news_reader
 
 ##  Dependency used
 
-Flutter_bloc - state management
-dio - api call
-hive - local storage
-hive_flutter - flutter biniding for hive
-path_provider - get a dircetories from the storing files
-shimmer - loading effect
-equatable - simplifies state comparision
+Flutter_bloc - state management,
+dio - api call,
+hive - local storage,
+hive_flutter - flutter biniding for hive,
+path_provider - get a dircetories from the storing files,
+shimmer - loading effect,
+equatable - simplifies state comparision.
 
 
 ## To install all Dependency:
